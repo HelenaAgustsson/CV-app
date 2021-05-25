@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/student-react-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/student-react-app/static/js/main.d77f1f20.chunk.js",
-    "main.js.map": "/student-react-app/static/js/main.d77f1f20.chunk.js.map",
-    "runtime-main.js": "/student-react-app/static/js/runtime-main.f0ac68bc.js",
-    "runtime-main.js.map": "/student-react-app/static/js/runtime-main.f0ac68bc.js.map",
-    "static/js/2.7bf1a5c4.chunk.js": "/student-react-app/static/js/2.7bf1a5c4.chunk.js",
-    "static/js/2.7bf1a5c4.chunk.js.map": "/student-react-app/static/js/2.7bf1a5c4.chunk.js.map",
-    "static/js/3.e5e1073e.chunk.js": "/student-react-app/static/js/3.e5e1073e.chunk.js",
-    "static/js/3.e5e1073e.chunk.js.map": "/student-react-app/static/js/3.e5e1073e.chunk.js.map",
+    "main.css": "/student-react-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/student-react-app/static/js/main.02e1ce97.chunk.js",
+    "main.js.map": "/student-react-app/static/js/main.02e1ce97.chunk.js.map",
+    "runtime-main.js": "/student-react-app/static/js/runtime-main.4473180c.js",
+    "runtime-main.js.map": "/student-react-app/static/js/runtime-main.4473180c.js.map",
+    "static/js/2.976e14e1.chunk.js": "/student-react-app/static/js/2.976e14e1.chunk.js",
+    "static/js/2.976e14e1.chunk.js.map": "/student-react-app/static/js/2.976e14e1.chunk.js.map",
+    "static/js/3.916026a3.chunk.js": "/student-react-app/static/js/3.916026a3.chunk.js",
+    "static/js/3.916026a3.chunk.js.map": "/student-react-app/static/js/3.916026a3.chunk.js.map",
     "index.html": "/student-react-app/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/student-react-app/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.7bf1a5c4.chunk.js.LICENSE.txt": "/student-react-app/static/js/2.7bf1a5c4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/student-react-app/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/student-react-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.976e14e1.chunk.js.LICENSE.txt": "/student-react-app/static/js/2.976e14e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0ac68bc.js",
-    "static/js/2.7bf1a5c4.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.d77f1f20.chunk.js"
+    "static/js/runtime-main.4473180c.js",
+    "static/js/2.976e14e1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.02e1ce97.chunk.js"
   ]
 }
