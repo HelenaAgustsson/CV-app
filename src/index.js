@@ -14,6 +14,8 @@ import PageTitle from './pagetitle';
 import HomePage from './Home';
 import Education from './education';
 import Career from './career';
+import pool from './mysql-pool';
+
 
 class Home extends React.Component {
   render() {
@@ -41,6 +43,7 @@ class Menu extends React.Component {
         <NavLink to="/page1"> | Education </NavLink>
         <NavLink to="/page2"> | Career history </NavLink>
         <NavLink to="/page3"> | Interests </NavLink>
+        <NavLink to="/page4"> | Hospitals </NavLink>
       </div>
     );
   }

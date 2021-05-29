@@ -19,6 +19,7 @@ class CareerList extends React.Component {
                <li>CRO Analyst at HSBC </li>
                 <li>CRO Analyst at TUI</li>
                 <li>Digital Officer at Princess Alice Hospice</li> 
+                <li>Communications Assistant at NLT</li> 
             </ul>
         );
     }
